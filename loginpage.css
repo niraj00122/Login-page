@@ -1,0 +1,52 @@
+body{
+    background-color: #62cddf;
+}
+.box{
+    height: 600px;
+    width: 400px;
+    background-color: #fff;
+    border-radius: 15px;
+   margin-left:700px;
+   margin-top: 5%;
+   
+}
+.name{
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+input{
+    font-size: 1.5rem;
+    height: 40px;
+    width: 350px;
+    margin-left: 15px;
+    background-color: #f1fbfa;
+}   
+label{
+    font-size: 1.7rem;
+    margin-left: 20px;  
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 230px;
+}
+button{
+    font-size: 2rem;
+    width:300px;
+    border-radius: 10px;
+    margin-left: 50px;
+    background-color: #11dcd6cf;
+}
+::placeholder{
+    font-size: 1.5rem;;
+}
+input text{
+    font-size: 20px;
+}
+.logo p{
+    font-size: 1.2rem;
+    margin-left: 30%;;
+
+}
